@@ -16,3 +16,6 @@ It contains 4 csv files, dividing the data into 4 aspects:
 * Title Principals (cast members roles): contains 377,848 cast members roles in movies with 6 attributes
 
 Since our interests relied on the ratings and the movies, we only end up using those two csv files. 
+
+## Process
+
