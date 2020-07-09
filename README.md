@@ -1,6 +1,6 @@
 # IMBD-movie-data
 
-For this project we questioned ourselves, are movies successes just luck or is it a pattern to them? Maybe the directors or the money they put into it. Also, how do you measure "success" is it how much the critics love a movie or is it how much the public reviews them? Or even how much money do they make, those are some of the questionings we tried to answer.
+It all started pretty inocuous, talking about our likes and dislikes, but when we started talking about movies, everything when from 0 to 200mph in 3 seconds. How do you decide what to watch? Is there that much of a difference between the critics reviews and the people? Which one is more harsh? Also, can that be considered successful? What about the money? Is it relevant the director or the budget if a movie is successful? Those are some of the questions we are trying to answer with this project.
 
 ![Image retrived from Panorama Audiovisual](https://www.panoramaaudiovisual.com/wp-content/uploads/2019/06/IMDB.jpg)
 
@@ -14,3 +14,5 @@ It contains 4 csv files, dividing the data into 4 aspects:
 * Names (cast members): contains 175,719 cast members with 20 attributes
 * Ratings: contains 81,273 movies with 49 attributes
 * Title Principals (cast members roles): contains 377,848 cast members roles in movies with 6 attributes
+
+Since our interests relied on the ratings and the movies, we only end up using those two csv files. 
