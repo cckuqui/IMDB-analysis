@@ -19,3 +19,6 @@ Since our interests relied on the ratings and the movies, we only end up using t
 
 ## Process
 
+We decided to divide the project into two sections: 
+1. One dedicated into the reviews of the movies, to analize if the critic or the viewers are harsher when they rate the movies.
+2. The second, to review the success of a movie in terms of revenue per director and the user ratings vs the budget. 
