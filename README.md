@@ -24,6 +24,6 @@ We decided to divide the project into two sections:
 1. One dedicated to the reviews of the movies, to analize who, between the critic and the viewer, is harsher when they rate the movies.
 2. The second, to review the success of a movie in terms of revenue per director and the user ratings vs the budget.
 
-### Critic Scores vs. Viewer Ratings (information extracted from (this repository)[https://github.com/patelpurvip/IMDB_ratings_analysis])
+### Critic Scores vs. Viewer Ratings (information extracted from [this repository](https://github.com/patelpurvip/IMDB_ratings_analysis))
 
 
