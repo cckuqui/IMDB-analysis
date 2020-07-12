@@ -26,4 +26,6 @@ We decided to divide the project into two sections:
 
 ### Critic Scores vs. Viewer Ratings (information extracted from [this repository](https://github.com/patelpurvip/IMDB_ratings_analysis))
 
+#### Cleaning
 
+For this process, we decided to delete movies without reviews from both critics and viewers.
