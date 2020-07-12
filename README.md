@@ -46,3 +46,7 @@ For this section, we started anew with all the information from the data set, fr
 The final presentation with all our findings can be found in the [Results folder](/Results/imdb.pdf).
 
 ![Conclusions](Images/Slide44.PNG)
+
+#### Copyrights
+
+We don't own the images inside the presentation, we used them only to add some visual representation of the information presented but we are not the owners of those images.
